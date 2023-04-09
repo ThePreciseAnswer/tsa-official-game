@@ -1,0 +1,59 @@
+{
+    "name": "TSA OFFICIAL",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "animation": "*",
+        "sprite-scaling": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.25",
+        "tag": "v1.12.25",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e2750e18d567167d5fc4f7c49e2a64cc55da9d18",
+        "target": "1.12.26",
+        "pxt": "8.5.36",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#222533",
+        "#6275BA",
+        "#A3C0E6",
+        "#FAFFFC",
+        "#FFAB7B",
+        "#FF6C7A",
+        "#DC435B",
+        "#3F48C2",
+        "#448DE7",
+        "#2BDB72",
+        "#A7F547",
+        "#FFEB33",
+        "#F58931",
+        "#DB4B3D",
+        "#A63D57"
+    ]
+}
